@@ -13,7 +13,7 @@ import org.apache.poi.hssf.util.HSSFColor;
 import org.apache.poi.ss.usermodel.Cell;
 /**
  * 
- * @author somasish
+ * @author venkata
  *
  */
 public class ReadExcelSheet {
@@ -26,7 +26,7 @@ public class ReadExcelSheet {
 	private HSSFCell cell = null;
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param path
 	 * 
 	 */
@@ -46,7 +46,7 @@ public class ReadExcelSheet {
 
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param sheetName
 	 * @return the row count in a sheet
 	 */
@@ -62,7 +62,7 @@ public class ReadExcelSheet {
 	
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param sheetName
 	 * @param colName
 	 * @param rowNum
@@ -131,7 +131,7 @@ public class ReadExcelSheet {
 
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param sheetName
 	 * @param colName
 	 * @param rowNum
@@ -188,7 +188,7 @@ public class ReadExcelSheet {
 
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param sheetName
 	 * @param colName
 	 * @param rowNum
@@ -248,7 +248,7 @@ public class ReadExcelSheet {
 	}
 
 /**
- * @author somasish
+ * @author venkata
  * @param sheetName
  * @return Whether Sheet Exist or not
  */
@@ -267,7 +267,7 @@ public class ReadExcelSheet {
 	
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param sheetName
 	 * @return Total number of columns in a sheet
 	 */

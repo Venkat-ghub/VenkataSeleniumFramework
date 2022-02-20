@@ -29,7 +29,7 @@ import javax.mail.internet.MimeMultipart;
 public class EmailReport {
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param from
 	 * @param pass
 	 * @param to

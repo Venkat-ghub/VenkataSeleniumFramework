@@ -21,7 +21,7 @@ import com.abc.seleniumrepository.SeleniumRepoDropdown;
 import com.abc.util.PropertyFileRead;
 /**
  * 
- * @author somasish
+ * @author venkata
  * Search related functionality testcases
  */
 
@@ -50,7 +50,7 @@ public class TC001ValidateFormTestCase extends TestngAnnotations {
 		
 	}
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * Goes to a specific site and performs Search Suggestion Test
 	 * @throws InterruptedException 
 	 */

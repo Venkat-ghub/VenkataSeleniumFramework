@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 public class CSVFileRead {
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param FilePath - Complete path of the file
 	 * Reads CSV File
 	 * Example of CSV File

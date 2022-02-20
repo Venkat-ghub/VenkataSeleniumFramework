@@ -21,7 +21,7 @@ public class PropertyFileRead {
 	OutputStream output = null;
 	
 	/*************************************************************
-	 * @author :Somasish
+	 * @author :venkata
 	 * @Method_Name: FileRead
 	 * @Description : Property File Read
 	 * @param: FileName- Complete path of file
@@ -46,7 +46,7 @@ public class PropertyFileRead {
 		return ObValue;
 	}
 	/*************************************************************
-	 * @author :Somasish
+	 * @author :venkata
 	 * @Method_Name: FileWrite
 	 * @Description : Property File Write
 	 * @param: FileName- Complete path of file

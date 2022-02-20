@@ -13,7 +13,7 @@ public class SeleniumRepoDropdown {
 
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator
 	 * @param value
 	 * Method to Select a value from a dropdown

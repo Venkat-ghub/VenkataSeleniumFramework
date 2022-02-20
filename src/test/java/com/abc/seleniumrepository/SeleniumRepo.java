@@ -37,7 +37,7 @@ public class SeleniumRepo {
 	public static List<String> windowHandlers;
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param browser name
 	 * @param url
 	 * @return driver of the browser invoked
@@ -94,7 +94,7 @@ public class SeleniumRepo {
 
 
 /**
- * @author somasish
+ * @author venkata
  * @return Driver Set with Proxy Setting
  */
 
@@ -121,7 +121,7 @@ return newDriver;
 
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @return Boolean value for Switch Alert
 	 */
 public static boolean SwitchAlert() {
@@ -142,7 +142,7 @@ public static boolean SwitchAlert() {
 
 }
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * 
 	 */
 	public static void closeBrowser() {
@@ -155,7 +155,7 @@ public static boolean SwitchAlert() {
 	}
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 */
 	public static void shutDownDriver() {
 		if (driver != null)
@@ -163,7 +163,7 @@ public static boolean SwitchAlert() {
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @return	current Driver instance
 	 */
 	public static WebDriver getWebDriver() {
@@ -171,7 +171,7 @@ public static boolean SwitchAlert() {
 	}
 	
 	/**
-	 * @author somsahoo
+	 * @author sommanikanth
 	 * @throws UnknownHostException
 	 */
 	public static void deleteTempFile() throws UnknownHostException {
@@ -187,7 +187,7 @@ public static boolean SwitchAlert() {
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param file- Directory and Sub directory to be deleted
 	 * @throws IOException
 	 */
@@ -218,7 +218,7 @@ public static boolean SwitchAlert() {
 	}
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator in particular format mentioned
 	 * @return WebElement
 	 */
@@ -270,7 +270,7 @@ public static boolean SwitchAlert() {
 	}
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param driver
 	 * @param element
 	 */
@@ -282,7 +282,7 @@ public static boolean SwitchAlert() {
 
 
 /**
- * @author somasish
+ * @author venkata
  * @param Web element
  */
 	public static void doubleClick(WebElement element) {
@@ -292,7 +292,7 @@ public static boolean SwitchAlert() {
 
 
 /**
- * @author somasish
+ * @author venkata
  * @param locator
  * @return True or False whether the Element Present or not
  */
@@ -310,7 +310,7 @@ public static boolean SwitchAlert() {
 		return false;
 	}
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * * @param locator
 	 * Wait for Element load
 	 */
@@ -332,7 +332,7 @@ public static boolean SwitchAlert() {
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * * @param locator
 	 * Thread Wait
 	 */
@@ -342,7 +342,7 @@ public static boolean SwitchAlert() {
 			Thread.sleep(TimeMillSec);
 	}
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * * @param locator
 	 * @return list of webelement found
 	 */
@@ -373,7 +373,7 @@ public static boolean SwitchAlert() {
 	}
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param propertyType
 	 * @param propertyValue
 	 */
@@ -386,7 +386,7 @@ public static boolean SwitchAlert() {
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @throws AWTException 
 	 */
 	public static void PressShiftTab() throws AWTException {
@@ -399,7 +399,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @throws AWTException 
 	 */
 	public static void PressTab() throws AWTException {
@@ -411,7 +411,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 		
 	}
 /**
- * @author somasish
+ * @author venkata
  * @param locator of the Web Element
  * @param attributeName
  * @return attributeValue
@@ -432,7 +432,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator of the Element to be cleared
 	 */
 	public static void clearElement(String locator) {
@@ -447,7 +447,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 			
 	}
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator
 	 * @param value
 	 */
@@ -465,7 +465,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator of Element to be clicked
 	 */
 	public static void click(String locator) {
@@ -486,7 +486,7 @@ robot.keyPress(KeyEvent.VK_SHIFT);
 	}
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator
 	 * @return Text/value of the Element
 	 */

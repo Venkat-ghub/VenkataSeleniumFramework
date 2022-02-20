@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <company>
 	<staff id="1001">
-		<firstname>somasish</firstname>
-		<lastname>sahoo</lastname>
+		<firstname>venkata</firstname>
+		<lastname>manikanth</lastname>
 		<nickname>som</nickname>
 		<salary>1</salary>
 	</staff>
 	<staff id="2001">
-		<firstname>sahoo</firstname>
-		<lastname>somasish</lastname>
+		<firstname>manikanth</firstname>
+		<lastname>venkata</lastname>
 		<nickname>asish</nickname>
 		<salary>2</salary>
 	</staff>

@@ -22,7 +22,7 @@ import com.abc.util.PropertyFileRead;
 public class TC002MapSearchPage extends TestngAnnotations {
 		
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * Google Maps Search Validation
 	 * @throws InterruptedException 
 	 */

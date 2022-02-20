@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 public class SeleniumRepoCheckBox {
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator
 	 * desc Whether the checkbox is checked or not 
 	 */
@@ -22,7 +22,7 @@ public class SeleniumRepoCheckBox {
 	}
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param locator
 	 * desc Check a Checkbox having a particular value as its attribute 
 	 */

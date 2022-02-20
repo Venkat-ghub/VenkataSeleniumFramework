@@ -12,7 +12,7 @@ import java.net.URL;
 public class ImageComparision {
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param ImageURL1 - URL of the image from the Application
 	 * @param ImageURL2 - Image url to be compared
 	 * @return Percentage difference of two image
@@ -60,7 +60,7 @@ public class ImageComparision {
 	  }
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param fileA - 1st Image file
 	 * @param fileB	- 2nd Image file
 	 * @return True/False - If Images are Equal/UnEqual

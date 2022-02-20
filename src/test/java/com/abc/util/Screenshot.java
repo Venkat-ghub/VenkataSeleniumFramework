@@ -16,13 +16,13 @@ import java.util.Date;
 
 /**
  * 
- * @author somasish
+ * @author venkata
  *
  */
 public class Screenshot {
 
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @param Path or foldername where screenshot should be kept
 	 * @throws IOException
 	 * Method to take screenshot
@@ -37,7 +37,7 @@ public class Screenshot {
 	
 	
 	/**
-	 * @author somasish
+	 * @author venkata
 	 * @return Path of the folder Created
 	 * Create a folder with Time Stamp
 	 */
